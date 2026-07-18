@@ -1,0 +1,60 @@
+# Smart Device Management System
+
+## Project Description
+
+This project is a simple Smart Device 
+Management System developed using Python. It 
+demonstrates the basic concepts of Object-Oriented Programming (OOP), including classes, objects, inheritance, encapsulation, constructors, methods, getters and setters, and 
+the use of super(). 
+
+The program manages different smart devices used in a smart home:
+- Temperature Sensor
+- Smart Light
+- Security Camera
+
+Users can interact with the devices through a simple menu-driven interface.
+
+## Features
+
+- Display device information
+- Turn devices on and off
+- Read temperature from the temperature sensor
+- Increase or decrease the smart light brightness
+- Start recording with the security camera
+- Menu-driven program using loops and conditional statements
+
+## Programming Concepts Used
+
+- Variables and data types
+- Input and output
+- Conditional statements
+- Loops
+- Functions (methods)
+- Classes and objects
+- Constructors ('__init__')
+- Inheritance
+- Encapsulation
+- Getters and setters (@property)
+- super()
+
+## Requirements
+
+- Python 3.x
+- PyCharm (or any Python IDE)
+  
+## How to Run the Program
+
+1. Download or clone this repository.
+2. Open the project in PyCharm.
+3. Run the main.py file.
+4. Follow the menu displayed on the screen.
+
+## Repository Structure
+
+smart-device-management-system/
+│── main.py
+└── README.md2
+
+## Author
+
+Name: Zulaihatu Gunu Mahfuzu 
